@@ -5,7 +5,9 @@
 @import url(assets/bower_components/jvectormap/jquery-jvectormap.css);
 @import url(assets/dist/css/AdminLTE.min.css);
 @import url(assets/dist/css/skins/_all-skins.min.css);
+@import url(assets/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css);
 @import "assets/plugins/iCheck/square/blue.css";
+@import '~ngx-toastr/toastr.css';
 
 /*Loadnig*/
 .boxLoading {
